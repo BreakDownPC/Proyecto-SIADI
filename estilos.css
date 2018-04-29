@@ -1,0 +1,54 @@
+body {
+    background-color: skyblue;
+    position:relative; 
+    TOP:10px;
+    LEFT:20px;   
+    right: :100px;
+}
+
+strong{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.button1 {
+    position:relative; 
+    TOP:100px; 
+    LEFT:600px;  
+    right: :200px;
+    color: ghostwhite;
+    font-weight: bold;
+    background-color: green;
+    border: 1px;
+}
+.button2  {
+    position:relative; 
+    TOP:100px; 
+    LEFT:600px;  
+    right: :200px;
+    color: ghostwhite;
+    font-weight: bold;
+    background-color: red;
+    border: 1px;
+}
+.button3  {
+    color: ghostwhite;
+    font-weight: bold;
+    background-color: green;
+    border: 1px;
+}
+.button4  {
+    color: ghostwhite;
+    font-weight: bold;
+    background-color: red;
+    border: 1px;
+}
+img {
+    position:absolute; 
+    TOP:35px; 
+    LEFT:600px; 
+    WIDTH:150px; 
+    HEIGHT:200px;
+    
+    
+}
